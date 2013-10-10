@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'icobun';
+  src:  url('/libs/icobun/fonts/icobun.eot?hx1djd');
+  src:  url('/libs/icobun/fonts/icobun.eot?hx1djd#iefix') format('embedded-opentype'),
+    url('/libs/icobun/fonts/icobun.ttf?hx1djd') format('truetype'),
+    url('/libs/icobun/fonts/icobun.woff?hx1djd') format('woff'),
+    url('/libs/icobun/fonts/icobun.svg?hx1djd#icobun') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ico-"], [class*=" ico-"] {
+  font-family: 'icobun';
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+}
+
+.ico-cart:before {
+  content: "\e637";
+}
+.ico-file-pdf:before {
+  content: "\e7b2";
+}
+.ico-file-openoffice:before {
+  content: "\e7b3";
+}
+.ico-file-word:before {
+  content: "\e7b4";
+}
+.ico-file-excel:before {
+  content: "\e7b5";
+}
+.ico-file-zip:before {
+  content: "\e7b6";
+}
+.ico-file-powerpoint:before {
+  content: "\e7b7";
+}
+.ico-file-script:before {
+  content: "\e7b8";
+}
+.ico-file-style:before {
+  content: "\e7b9";
+}
+.ico-arrow-left:before {
+  content: "\e898";
+}
+.ico-arrow-down:before {
+  content: "\e899";
+}
+.ico-arrow-up:before {
+  content: "\e89a";
+}
+.ico-arrow-right:before {
+  content: "\e89b";
+}
+.ico-home:before {
+  content: "\e900";
+}
+.ico-file-empty:before {
+  content: "\e924";
+}
+.ico-file-text:before {
+  content: "\e926";
+}
+.ico-file-picture:before {
+  content: "\e927";
+}
+.ico-phone:before {
+  content: "\e942";
+}
+.ico-envelop:before {
+  content: "\e945";
+}
+.ico-location:before {
+  content: "\e948";
+}
+.ico-calendar:before {
+  content: "\e953";
+}
+.ico-search:before {
+  content: "\e986";
+}
+.ico-loop:before {
+  content: "\ea2e";
+}
+.ico-google-plus:before {
+  content: "\ea8c";
+}
+.ico-vk:before {
+  content: "\ea98";
+}
+.ico-spinner:before {
+  content: "\1f30d";
+}
